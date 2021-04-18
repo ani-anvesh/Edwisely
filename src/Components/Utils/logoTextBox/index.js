@@ -37,7 +37,7 @@ const index = (props) => {
           </div>
         ) : null}
         {props.languages !== undefined && props.languages !== null ? (
-          <div className="d-flex align-items-center">
+          <div className="d-flex align-items-center flex-wrap">
             {props.languages.map((lang, index) => (
               <div key={index} className="sideLanguages">
                 <span>{lang.name}</span> |{" "}
@@ -57,7 +57,7 @@ const index = (props) => {
             {Object.keys(skillsArray).map((level, i) => (
               <div key={i}>
                 <div className="sideSkillCat">{level}</div>
-                <div className="d-flex align-items-center">
+                <div className="d-flex align-items-center flex-wrap">
                   {skillsArray[level].map((skill, index) => (
                     <div key={index} className="sideSkillsInfo">
                       {skill.name}{" "}
