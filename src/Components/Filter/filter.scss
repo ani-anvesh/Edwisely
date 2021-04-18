@@ -1,0 +1,51 @@
+.filter {
+  background: #ffffff;
+  border: 1px solid #595cd2;
+  box-sizing: border-box;
+  border-radius: 25.5px;
+  margin: 30px;
+  padding: 6px 14px;
+  .VLine {
+    width: 1px;
+    height: 24px;
+    border: 1px solid #d4d4d4;
+  }
+  .dropdownText {
+    margin: 0px 0px 0px 12px;
+    font-family: "Source Sans Pro";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    color: #191648;
+    mix-blend-mode: normal;
+    opacity: 0.6;
+    span {
+      color: #000;
+      opacity: unset;
+    }
+  }
+  .dropdownIcon {
+    margin: 0px 12px 0px 7px;
+    width: 13px;
+    height: 12px;
+    background: url(../../assets/Triangle.svg) no-repeat center;
+  }
+}
+.editButton {
+  margin: 0px 40px 0px 0px;
+  padding: 7px 34px;
+  background: linear-gradient(
+    131.37deg,
+    #7175e0 -8.1%,
+    #4d50cb 45.77%,
+    #e25bc8 155.59%
+  );
+  border-radius: 56px;
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 26px;
+  color: #ffffff;
+}

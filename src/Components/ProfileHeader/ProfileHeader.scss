@@ -1,0 +1,82 @@
+.profileHeader {
+  max-width: 100%;
+  height: 174px;
+  background: #ffffff;
+  border-radius: 8px;
+  margin: 16px 0px;
+  padding: 31px 100px 27px 143px;
+
+  .hexagon {
+    width: 86.03px;
+    height: 144.21px;
+    left: 53.81px;
+    top: 175px;
+    position: absolute;
+    margin: 0 auto;
+    background-color: dodgerblue;
+    border-radius: 10px;
+    box-sizing: border-box;
+    transition: all 1s;
+    transform: rotate(31deg);
+    border: 0.4vh solid transparent;
+  }
+
+  .hexagon:before,
+  .hexagon:after {
+    content: "";
+    border: inherit;
+    position: absolute;
+    top: -0.5vh;
+    left: -0.5vh;
+    background-color: dodgerblue;
+    border-radius: inherit;
+    height: 102%;
+    width: 105%;
+  }
+
+  .hexagon:before {
+    transform: rotate(60deg);
+  }
+  .hexagon:after {
+    transform: rotate(-60deg);
+  }
+  .student {
+    height: 30px;
+    .studentName {
+      font-family: "Source Sans Pro";
+      font-style: normal;
+      font-weight: 600;
+      font-size: 24px;
+      line-height: 30px;
+      color: #191648;
+    }
+    .studentId {
+      font-family: "Source Sans Pro";
+      font-style: normal;
+      font-weight: normal;
+      font-size: 16px;
+      line-height: 28px;
+      text-align: center;
+      color: #191648;
+      margin: 0px 20px;
+    }
+  }
+  .HLine {
+    width: 100%;
+    height: 1px;
+    border: 1px solid #d4d4d4;
+    margin: 15px 0px;
+  }
+  .infoBox {
+    max-width: 70%;
+    .infoBoxText {
+      width: 100%;
+      font-family: "Source Sans Pro";
+      font-style: normal;
+      font-weight: normal;
+      font-size: 16px;
+      line-height: 28px;
+      color: #191648;
+    }
+  }
+}

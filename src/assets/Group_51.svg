@@ -1,0 +1,16 @@
+<svg width="67" height="66" viewBox="0 0 67 66" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 51">
+<path id="Rectangle" fill-rule="evenodd" clip-rule="evenodd" d="M2 20.6032C2 17.8418 4.23858 15.6032 7 15.6032H59.1138C61.8752 15.6032 64.1138 17.8418 64.1138 20.6032V58.2146C64.1138 60.976 61.8752 63.2146 59.1138 63.2146H7C4.23858 63.2146 2 60.976 2 58.2146V20.6032Z" stroke="url(#paint0_linear)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Path" d="M46.2105 63.2146V8.80162C46.2105 5.04519 43.1653 2 39.4089 2H25.8056C22.0492 2 19.004 5.04519 19.004 8.80162V63.2146" stroke="url(#paint1_linear)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="86.2297" y1="44.661" x2="63.7261" y2="-19.6738" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF723B"/>
+<stop offset="1" stop-color="#FFED5B"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="55.8975" y1="39.3599" x2="9.49532" y2="-5.83321" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF723B"/>
+<stop offset="1" stop-color="#FFED5B"/>
+</linearGradient>
+</defs>
+</svg>

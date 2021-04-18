@@ -1,0 +1,72 @@
+.logoTextBox {
+  padding: 21px 25px;
+  background: #ffffff;
+  border-radius: 8px;
+  margin: 25px 0px;
+  .heading {
+    .headingLogo {
+      width: 63.02px;
+      height: 60.5px;
+      background: no-repeat center;
+    }
+    .headingText {
+      font-family: "Source Sans Pro";
+      font-style: normal;
+      font-weight: 600;
+      font-size: 30px;
+      line-height: 26px;
+      color: #6852cb;
+      margin: 0px 23px;
+    }
+  }
+  .side {
+    margin-left: 89px;
+    .sideText {
+      font-family: Source Sans Pro;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 16px;
+      line-height: 21px;
+      text-align: left;
+      color: #191648;
+      max-width: 830px;
+    }
+    .sideVideobox {
+      width: 281px;
+      height: 157.83px;
+      background: #4d4d4d;
+      margin: 10px 0px;
+    }
+    .sideLanguages {
+      font-family: "Source Sans Pro";
+      font-style: normal;
+      font-size: 16px;
+      line-height: 24px;
+      color: #191648;
+      margin-right: 43px;
+      span {
+        font-weight: 600;
+      }
+    }
+    .sideSkills {
+      .sideSkillCat {
+        font-family: "Source Sans Pro";
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 24px;
+        color: #6852cb;
+      }
+      .sideSkillsInfo {
+        font-family: "Source Sans Pro";
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 26px;
+        color: #191648;
+        margin-bottom: 20px;
+        margin-right: 5px;
+      }
+    }
+  }
+}

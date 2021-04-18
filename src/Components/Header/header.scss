@@ -1,0 +1,112 @@
+.header {
+  padding: 40px;
+  max-width: 100%;
+  height: 96px;
+  background: linear-gradient(
+    194.3deg,
+    #ffa776 -156.28%,
+    #ce244f -94.55%,
+    #d7315c 70.82%,
+    #ffa776 297.46%
+  );
+  .logo {
+    width: 128.94px;
+    height: 48px;
+    background-image: url(../../assets/Edwisely_logo.svg);
+    margin-right: 20px;
+  }
+  .headerDetails {
+    margin: 4px;
+    .logoText {
+      width: 62px;
+      height: 24px;
+      font-family: "Source Sans Pro";
+      font-style: normal;
+      font-weight: normal;
+      font-size: 16px;
+      line-height: 24px;
+      /* identical to box height, or 150% */
+      color: #191648;
+    }
+    .detailLogo {
+      width: 24px;
+      height: 24px;
+      background-image: url(../../assets/reward.svg);
+    }
+    .trophyLogo {
+      width: 24px;
+      height: 24px;
+      background-image: url(../../assets/Group_10.svg);
+      background-repeat: no-repeat;
+      background-position: center;
+      &::after {
+        content: "";
+        display: block;
+      }
+    }
+  }
+  .searchLogo {
+    margin: 0px 16px;
+    width: 25.19px;
+    height: 30.2px;
+    background: url(../../assets/search.svg) no-repeat center;
+  }
+  .dashboard {
+    margin: 0px 16px;
+    border: 2px solid #ffffff;
+    box-sizing: border-box;
+    border-radius: 61px;
+    padding: 7px 16px;
+    .dashboardLogo {
+      width: 32px;
+      height: 32px;
+      background: url(../../assets/Group_4.svg) no-repeat center;
+    }
+    .dashboardText {
+      font-family: "Source Sans Pro";
+      font-style: normal;
+      font-weight: normal;
+      font-size: 18px;
+      line-height: 23px;
+      color: #ffffff;
+    }
+  }
+  .ylp {
+    margin: 0px 16px;
+    width: 96px;
+    height: 36px;
+    background: #ffffff;
+    border-radius: 18px;
+    .ylpText {
+      font-family: "Source Sans Pro";
+      font-style: normal;
+      font-weight: 600;
+      font-size: 20px;
+      line-height: 25px;
+      color: #4e54c8;
+    }
+    .ylpLogo {
+      width: 20px;
+      height: 20px;
+      background: url(../../assets/rightArrow.svg) no-repeat center;
+    }
+  }
+  .tvLogo {
+    margin: 0px 16px;
+    width: 32px;
+    height: 32px;
+    background: url(../../assets/computer.svg) no-repeat center;
+  }
+  .bellLogo {
+    margin: 0px 16px;
+    width: 32px;
+    height: 32px;
+    background: url(../../assets/Group_9.svg) no-repeat center;
+  }
+  .menuLogo {
+    margin-left: 16px;
+    width: 32px;
+    height: 32px;
+    background: url(../../assets/menusvg.svg) no-repeat center;
+  }
+}

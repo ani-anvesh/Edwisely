@@ -1,0 +1,121 @@
+.timeLineBox {
+  padding: 21px 25px 0px 25px;
+  background: #ffffff;
+  border-radius: 8px;
+  margin: 25px 0px;
+  height: 100%;
+  .heading {
+    margin-bottom: 20px;
+    .headingLogo {
+      width: 63.02px;
+      height: 63.5px;
+      background: no-repeat center;
+    }
+    .headingText {
+      font-family: "Source Sans Pro";
+      font-style: normal;
+      font-weight: 600;
+      font-size: 30px;
+      line-height: 26px;
+      color: #6852cb;
+      margin: 0px 23px;
+    }
+  }
+  .timeLine {
+    height: 100% !important;
+    padding: 0px 8px;
+    .timeLineDate {
+      font-family: "Source Sans Pro";
+      font-style: normal;
+      font-weight: normal;
+      font-size: 16px;
+      line-height: 20px;
+      color: #191648;
+    }
+    .timelineLogo {
+      margin: 0px 15px;
+      height: 100% !important;
+      .timelineLogoC {
+        width: 19px;
+        height: 21px;
+        border-radius: 50%;
+        background: linear-gradient(
+          131.37deg,
+          #7175e0 -8.1%,
+          #4d50cb 45.77%,
+          #e25bc8 155.59%
+        );
+      }
+      .timelineLogoL {
+        width: 1px;
+        flex-grow: 1;
+        height: 100% !important;
+        border: 1px solid #4d50ca;
+      }
+    }
+    .timelineText {
+      padding: 0px 3px;
+      background: #ffffff;
+      border-radius: 8px;
+      .timelineheading {
+        .timelineTextLogo {
+          width: 24.55px;
+          height: 27.62px;
+          background: no-repeat center;
+        }
+        .timelineTextheading {
+          margin-left: 10px;
+          font-family: "Source Sans Pro";
+          font-style: normal;
+          font-weight: 600;
+          font-size: 18px;
+          line-height: 28px;
+          color: #4e54c8;
+        }
+      }
+      .timelineTextside {
+        margin-left: 34px;
+        .timelineTextsideHeading {
+          font-family: "Source Sans Pro";
+          font-style: normal;
+          font-weight: normal;
+          font-size: 16px;
+          line-height: 24px;
+          color: #191648;
+        }
+        .timelineTextsideGrade {
+          font-family: "Source Sans Pro";
+          font-style: normal;
+          font-weight: normal;
+          font-size: 16px;
+          line-height: 24px;
+          color: #191648;
+        }
+        .timelineTextsideBody {
+          max-width: 719px;
+          margin: 20px 0px;
+          font-family: "Source Sans Pro";
+          font-style: normal;
+          font-weight: normal;
+          font-size: 16px;
+          line-height: 26px;
+          color: #191648;
+          mix-blend-mode: normal;
+          opacity: 0.6;
+        }
+        .timelineThumb {
+          width: 100%;
+          margin-bottom: 40px;
+          .timelineThumbimage {
+            width: 238px;
+            height: 133.86px;
+            mix-blend-mode: normal;
+            opacity: 0.59;
+            border-radius: 8px;
+            background: #4d4d4d;
+          }
+        }
+      }
+    }
+  }
+}
