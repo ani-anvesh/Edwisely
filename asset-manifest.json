@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/Edwisely/static/css/main.ba06ad9b.chunk.css",
-    "main.js": "/Edwisely/static/js/main.0b69cf26.chunk.js",
-    "main.js.map": "/Edwisely/static/js/main.0b69cf26.chunk.js.map",
+    "main.js": "/Edwisely/static/js/main.95056589.chunk.js",
+    "main.js.map": "/Edwisely/static/js/main.95056589.chunk.js.map",
     "runtime-main.js": "/Edwisely/static/js/runtime-main.8c02f291.js",
     "runtime-main.js.map": "/Edwisely/static/js/runtime-main.8c02f291.js.map",
     "static/css/2.658248ec.chunk.css": "/Edwisely/static/css/2.658248ec.chunk.css",
-    "static/js/2.a1ba1c28.chunk.js": "/Edwisely/static/js/2.a1ba1c28.chunk.js",
-    "static/js/2.a1ba1c28.chunk.js.map": "/Edwisely/static/js/2.a1ba1c28.chunk.js.map",
+    "static/js/2.3877472f.chunk.js": "/Edwisely/static/js/2.3877472f.chunk.js",
+    "static/js/2.3877472f.chunk.js.map": "/Edwisely/static/js/2.3877472f.chunk.js.map",
     "static/js/3.a9f479d1.chunk.js": "/Edwisely/static/js/3.a9f479d1.chunk.js",
     "static/js/3.a9f479d1.chunk.js.map": "/Edwisely/static/js/3.a9f479d1.chunk.js.map",
     "index.html": "/Edwisely/index.html",
     "static/css/2.658248ec.chunk.css.map": "/Edwisely/static/css/2.658248ec.chunk.css.map",
     "static/css/main.ba06ad9b.chunk.css.map": "/Edwisely/static/css/main.ba06ad9b.chunk.css.map",
-    "static/js/2.a1ba1c28.chunk.js.LICENSE.txt": "/Edwisely/static/js/2.a1ba1c28.chunk.js.LICENSE.txt",
+    "static/js/2.3877472f.chunk.js.LICENSE.txt": "/Edwisely/static/js/2.3877472f.chunk.js.LICENSE.txt",
     "static/media/Combined_Shape-1.a23ce8e1.svg": "/Edwisely/static/media/Combined_Shape-1.a23ce8e1.svg",
     "static/media/Combined_Shape.cf83a89b.svg": "/Edwisely/static/media/Combined_Shape.cf83a89b.svg",
     "static/media/Combined_Shape_Copy.9ace66db.svg": "/Edwisely/static/media/Combined_Shape_Copy.9ace66db.svg",
+    "static/media/Edit.fee6e61e.svg": "/Edwisely/static/media/Edit.fee6e61e.svg",
     "static/media/header.scss": "/Edwisely/static/media/search.84e0bc16.svg",
     "static/media/Group17.6fe199fc.svg": "/Edwisely/static/media/Group17.6fe199fc.svg",
     "static/media/Group60.7f8023d2.svg": "/Edwisely/static/media/Group60.7f8023d2.svg",
@@ -28,6 +29,7 @@
     "static/media/Group_65.e4d0c6ff.svg": "/Edwisely/static/media/Group_65.e4d0c6ff.svg",
     "static/media/Shape.ff36e329.svg": "/Edwisely/static/media/Shape.ff36e329.svg",
     "static/media/filter.scss": "/Edwisely/static/media/Triangle.a798b397.svg",
+    "static/media/add.79d0b40e.svg": "/Edwisely/static/media/add.79d0b40e.svg",
     "static/media/pencil.7ec5d97d.svg": "/Edwisely/static/media/pencil.7ec5d97d.svg",
     "static/media/share.14d32666.svg": "/Edwisely/static/media/share.14d32666.svg",
     "static/media/student_copy.a67c697e.svg": "/Edwisely/static/media/student_copy.a67c697e.svg"
@@ -35,8 +37,8 @@
   "entrypoints": [
     "static/js/runtime-main.8c02f291.js",
     "static/css/2.658248ec.chunk.css",
-    "static/js/2.a1ba1c28.chunk.js",
+    "static/js/2.3877472f.chunk.js",
     "static/css/main.ba06ad9b.chunk.css",
-    "static/js/main.0b69cf26.chunk.js"
+    "static/js/main.95056589.chunk.js"
   ]
 }
