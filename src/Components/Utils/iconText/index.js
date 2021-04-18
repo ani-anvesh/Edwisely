@@ -8,7 +8,7 @@ const index = (props) => {
         className="buttonIcon"
         style={{
           backgroundImage: `url(${props.icon})`,
-          backgroundSize: "18px",
+          backgroundSize: "16px",
         }}
       ></div>
       <div className="buttonText">{props.buttonText}</div>

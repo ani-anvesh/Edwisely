@@ -1,4 +1,7 @@
 import "./timelinebox.scss";
+import IconText from "../Utils/iconText";
+import Add from "../../assets/add.svg";
+import Edit from "../../assets/Edit.svg";
 
 const index = (props) => {
   console.log(props.education);
@@ -13,6 +16,16 @@ const index = (props) => {
           }}
         ></div>
         <div className="headingText">{props.heading}</div>
+        {props.heading == "Certificates and Training" ? (
+          <>
+            <div>
+              <IconText buttonText={"Add"} icon={Add} />
+            </div>
+            <div>
+              <IconText buttonText={"Edit"} icon={Edit} />
+            </div>
+          </>
+        ) : null}
       </div>
       {props.education !== null && props.education !== undefined
         ? props.education.map((time, index) => (
